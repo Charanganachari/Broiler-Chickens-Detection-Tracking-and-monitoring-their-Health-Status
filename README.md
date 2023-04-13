@@ -1,13 +1,8 @@
-Overview:
+Business Problem: 
+The poultry farm is facing a problem of high mortality rates and decreased productivity, which is negatively affecting their profits and reputation. The underlying causes of the issue could be due to several factors such as disease outbreaks, inadequate ventilation, and temperature control in the chicken houses, poor nutrition, and environmental stress. This is leading to difficulty in meeting customer demands and adversely impacting the farm's reputation. The farm needs to identify the root causes of the problem and take appropriate action to mitigate it.
 
-Project aims to develop an object detection system for broiler chickens in poultry farms using computer vision.
-System to accurately detect and track broiler chickens in real-time to improve monitoring and management.
-Project involves collecting and preprocessing training data. Developing machine learning models, testing and optimizing the system and implementing it on the farm 
+Business Solution:  Based on the business problem we came with a solution that the birds should be detected, tracked and monitor their healthstatus and alert notification is shared with physician.So that we can decrease morality rate and increase Productivity….
 
-Review:
-
-Promising application of computer vision technology to improve poultry farming operations
-Object detecton system has potential to increase efficiency. Reduce labor costs, and improve supply chain management.
-Success criteria for the project are appropriate and well-defined
-Ethical implications of using the system, particulary regard to animal welfare and privacy, must be considered
-Overall, the project has potential to offer significant benefits to the poultry farming industry, but responsible implementation and usage is crucial
+Technical Stacks:
+Python, opencv, roboflow, github, streamlit, postgreSQL, Spyder, Jupyter, GoogleColab, Scikit-Learn
+![image](https://user-images.githubusercontent.com/107097836/231646707-8065fbbf-297c-4bd1-b249-eba078af5d3f.png)
