@@ -1,3 +1,5 @@
+**Broiler chickens detection, tracking and monitoring their health status**
+
 Business Problem: 
 The poultry farm is facing a problem of high mortality rates and decreased productivity, which is negatively affecting their profits and reputation. The underlying causes of the issue could be due to several factors such as disease outbreaks, inadequate ventilation, and temperature control in the chicken houses, poor nutrition, and environmental stress. This is leading to difficulty in meeting customer demands and adversely impacting the farm's reputation. The farm needs to identify the root causes of the problem and take appropriate action to mitigate it.
 
